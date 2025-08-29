@@ -2,3 +2,8 @@ Este arquivo contém informações adicionais para git
 
 - Primeiro comando
 - Segundo comando
+
+
+Inserir comandos teste sozinho
+Aprendendo sozinho 
+Essa linha e as duas de cima devem aparecer

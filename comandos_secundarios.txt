@@ -7,3 +7,23 @@ Este arquivo contém informações adicionais para git
 Inserir comandos teste sozinho
 Aprendendo sozinho 
 Essa linha e as duas de cima devem aparecer
+
+
+
+
+TESTE 
+TESTE 
+TESTE
+TESTE 
+TESTE 
+TESTE
+TESTE 
+TESTE 
+TESTE
+TESTE 
+TESTE 
+TESTE
+TESTE 
+TESTE 
+TESTE
+

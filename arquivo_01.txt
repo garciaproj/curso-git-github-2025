@@ -1,3 +1,9 @@
 Teste
 
+<<<<<<< HEAD
 Agora o teste 3
+=======
+Agora o teste 2
+
+Novo teste 123
+>>>>>>> Paulo

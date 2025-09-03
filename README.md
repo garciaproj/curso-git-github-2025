@@ -2,7 +2,7 @@
 
 
 
-Um curso para iniciantes aprenderem a trabalhar com 
+Um curso para iniciantes aprenderem a trabalhar com
 
 versionamento de código e repositórios remotos com GitHub.
 
@@ -15,4 +15,8 @@ Visual Studio Code.
 
 
 Confira tudo o que temos no nosso Youtube, É grátis!
+
+
+
+Teste
 

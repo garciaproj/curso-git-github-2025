@@ -16,6 +16,8 @@ Visual Studio Code.
 
 Confira tudo o que temos no nosso Youtube, É grátis!
 
+[Curso Git 2025](https://youtube.com/@teomewhy)
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
@@ -55,5 +57,3 @@ Confira tudo o que temos no nosso Youtube, É grátis!
 11. excluir <nova_branch> origin
 12. git checkout main
 13. git branch -D <nova_branch>
-
-[Curso Git 2025](https://youtube.com/@teomewhy)

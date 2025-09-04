@@ -14,4 +14,13 @@ Visual Studio Code.
 
 
 
+<<<<<<< HEAD
 Confira tudo o que temos no nosso Youtube, É grátis!
+=======
+Confira tudo o que temos no nosso Youtube, É grátis!
+
+
+
+Teste
+
+>>>>>>> c57f145d1eb46b6ea91a9ad130bb7629348af5d5
